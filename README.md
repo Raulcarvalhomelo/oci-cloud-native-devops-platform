@@ -3,7 +3,8 @@ Complete study project focused on cloud infrastructure implementation and automa
 
 # Projeto: Cloud Native DevOps Platform — Oracle Cloud Infrastructure
 ## Arquitetura final
-```                         INTERNET
+```
+                        INTERNET
                             |
                             |
                     Cloudflare DNS
